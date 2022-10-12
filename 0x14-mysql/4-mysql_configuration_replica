@@ -40,9 +40,4 @@ log-error       = /var/log/mysql/error.log
 symbolic-links=0
 server-id       = 2
 replicate-do-db = tyrell_corp
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+
